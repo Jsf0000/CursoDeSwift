@@ -23,9 +23,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F062AAAA1C9F96B00014D819 /* Velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Velocimetro.playground; sourceTree = "<group>"; };
 		F0C24A981C8C00DA007D27CD /* Juego de Memoria */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Juego de Memoria"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0C24A9B1C8C00DA007D27CD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		F0C24AA21C8C0103007D27CD /* Juego de memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego de memoria.playground"; path = "../../Juego de memoria.playground"; sourceTree = "<group>"; };
 		F0C24AA31C8C0CB7007D27CD /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Juego de Memoria.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -43,6 +43,7 @@
 		F0C24A8F1C8C00DA007D27CD = {
 			isa = PBXGroup;
 			children = (
+				F062AAAA1C9F96B00014D819 /* Velocimetro.playground */,
 				F0C24AA31C8C0CB7007D27CD /* Juego de Memoria.playground */,
 				F0C24A9A1C8C00DA007D27CD /* Juego de Memoria */,
 				F0C24A991C8C00DA007D27CD /* Products */,
@@ -60,7 +61,6 @@
 		F0C24A9A1C8C00DA007D27CD /* Juego de Memoria */ = {
 			isa = PBXGroup;
 			children = (
-				F0C24AA21C8C0103007D27CD /* Juego de memoria.playground */,
 				F0C24A9B1C8C00DA007D27CD /* main.swift */,
 			);
 			path = "Juego de Memoria";
